@@ -30,10 +30,10 @@
         <value type="string" value="xfce4-taskmanager.desktop"/>
       </property>
       <property name="recent" type="array">
+        <value type="string" value="xfce4-terminal.desktop"/>
         <value type="string" value="xfce-workspaces-settings.desktop"/>
         <value type="string" value="xfce-keyboard-settings.desktop"/>
         <value type="string" value="xfce-wm-settings.desktop"/>
-        <value type="string" value="xfce4-terminal.desktop"/>
         <value type="string" value="xfce-settings-manager.desktop"/>
         <value type="string" value="ccsm.desktop"/>
         <value type="string" value="org.gnome.Calculator.desktop"/>
