@@ -117,6 +117,9 @@
         <value type="string" value="networkmanager applet"/>
         <value type="string" value="ibus panel"/>
       </property>
+      <property name="known-items" type="array">
+        <value type="string" value="blueman"/>
+      </property>
     </property>
     <property name="plugin-9" type="empty"/>
     <property name="plugin-10" type="empty"/>
@@ -141,8 +144,8 @@
     <property name="plugin-20" type="string" value="weather">
       <property name="location" type="empty">
         <property name="name" type="string" value="Empelde, Ronnenberg"/>
-        <property name="latitude" type="string" value="52.340516"/>
-        <property name="longitude" type="string" value="9.662541"/>
+        <property name="latitude" type="string" value="52.340004"/>
+        <property name="longitude" type="string" value="9.663388"/>
       </property>
       <property name="msl" type="int" value="67"/>
       <property name="timezone" type="string" value="Europe/Berlin"/>
@@ -171,6 +174,11 @@
         <property name="lines" type="int" value="1"/>
         <property name="color" type="string" value="rgba(0,0,0,0)"/>
         <property name="use-color" type="bool" value="false"/>
+      </property>
+      <property name="labels" type="empty">
+        <property name="label0" type="int" value="3"/>
+        <property name="label1" type="int" value="16"/>
+        <property name="label2" type="int" value="15"/>
       </property>
     </property>
     <property name="plugin-21" type="string" value="screenshooter"/>
