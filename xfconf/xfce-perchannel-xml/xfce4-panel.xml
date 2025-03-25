@@ -69,10 +69,13 @@
         <value type="string" value="xfce4-taskmanager.desktop"/>
       </property>
       <property name="recent" type="array">
+        <value type="string" value="xfce-wm-settings.desktop"/>
+        <value type="string" value="xfce-keyboard-settings.desktop"/>
         <value type="string" value="xfce4-terminal.desktop"/>
         <value type="string" value="xfce-workspaces-settings.desktop"/>
-        <value type="string" value="xfce-keyboard-settings.desktop"/>
-        <value type="string" value="xfce-wm-settings.desktop"/>
+        <value type="string" value="xfce-wmtweaks-settings.desktop"/>
+        <value type="string" value="xfce4-taskmanager.desktop"/>
+        <value type="string" value="firefox.desktop"/>
         <value type="string" value="xfce-settings-manager.desktop"/>
         <value type="string" value="ccsm.desktop"/>
         <value type="string" value="org.gnome.Calculator.desktop"/>
@@ -108,6 +111,7 @@
       <property name="names-visible" type="empty"/>
       <property name="show-frame" type="empty"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="networkmanager applet"/>
         <value type="string" value="ibus panel"/>
       </property>
     </property>
